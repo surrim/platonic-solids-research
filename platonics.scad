@@ -1,3 +1,21 @@
+/* Copyright surrim 2025
+ *
+ * This file is part of Platonic Solids Research.
+ *
+ * Platonic Solids Research is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * Platonic Solids Research is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with Platonic Solids Research.  If not, see <http://www.gnu.org/licenses/>.
+ */
+
 _PHI = 0.5 * (sqrt(5) + 1);
 _EPSILON = 0.000001;
 
